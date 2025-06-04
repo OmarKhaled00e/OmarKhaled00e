@@ -32,14 +32,16 @@
 
 ###
 
-<br clear="both">
-
 <img align="right" height="150" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExMzFzdmhwcjg4MnFqMzdiazEyM3NuN3loZHZuMXNucmZka2ZwcXRoYSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/u2pmTWUi0MXjyrMaVj/giphy.gif"  />
 
 ###
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/OmarKhaled00e/OmarKhaled00e/output/snake.svg" alt="Snake animation" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/OmarKhaled00e/OmarKhaled00e/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/OmarKhaled00e/OmarKhaled00e/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/OmarKhaled00e/OmarKhaled00e/output/pacman-contribution-graph.svg">
+</picture>
 
 ###

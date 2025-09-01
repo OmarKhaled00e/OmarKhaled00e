@@ -23,9 +23,9 @@
 ### 🔨 Languages and Tools:
 <a href="https://flutter.dev/" target="_blank"> <img align="left" alt="Flutter" height ="42px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg"/> </a>
 <a href="https://dart.dev/" target="_blank"><img align="left" alt="Dart" height ="42px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dart/dart-original.svg"></a>
-<a href="https://firebase.google.com/" target="_blank"> <img align="left" alt="Firebase" height ="42px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/firebase/firebase.svg"/> </a>
-<a href="https://git-scm.com/" target="_blank"><img align="left" alt="Git" height ="42px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/git-scm/git-scm.svg"></a>
-<a href="https://www.figma.com/" target="_blank"><img align="left" alt="Figma" height ="42px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/figma/figma.svg"></a>
+<a href="https://firebase.google.com/" target="_blank"> <img align="left" alt="Firebase" height ="42px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/firebase/firebase-plain.svg"/> </a>
+<a href="https://git-scm.com/" target="_blank"><img align="left" alt="Git" height ="42px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg"></a>
+<a href="https://www.figma.com/" target="_blank"><img align="left" alt="Figma" height ="42px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg"></a>
 
 <br/>
 <br/>
@@ -44,3 +44,4 @@
 - 👗 [Fashion App](https://github.com/OmarKhaled00e/Fashion_App)  
 - 📰 [News General App](https://github.com/OmarKhaled00e/news_ganeral)  
 - ✅ [To-Do App](https://github.com/OmarKhaled00e/to_do_app)  
+

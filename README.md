@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=0175C2&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Omar+Khaled+👋;Flutter+Developer+💙;Clean+Code+Enthusiast+🚀;Always+Learning+New+Things+🔥" alt="Typing Animation" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=0175C2&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Omar+Khaled+👋;Flutter+Developer+💙;Clean+Code+Enthusiast+🚀;Always+Learning+New+Things+🔥" alt="Typing Animation" />
 </p>
 
 ---
@@ -49,3 +49,4 @@
 - 👗 [Fashion App](https://github.com/OmarKhaled00e/Fashion_App)  
 - 📰 [News General App](https://github.com/OmarKhaled00e/news_ganeral)  
 - ✅ [To-Do App](https://github.com/OmarKhaled00e/to_do_app)  
+

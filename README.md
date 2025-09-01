@@ -1,3 +1,9 @@
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=F72585&center=true&vCenter=true&width=500&lines=Hi%2C+I'm+Omar+Khaled+👋;Flutter+Developer+💙;Clean+Code+Enthusiast+🚀;Always+Learning+New+Things+🔥" alt="Typing Animation" />
+</p>
+
+---
+
 ## Hey 👋, I'm Omar Khaled!  
 <a href='https://www.linkedin.com/in/omar-khaled-10245u/'><img align='left' alt="linkedin" src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/561d474902b59c7429ec22bb73e225696c27b202/assets/linkedin.svg" height='18px'/></a>
 <a href='mailto:ok4966541@gmail.com'><img alt="gmail" src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/main/assets/gmail.svg" height='18px'/></a>  
@@ -6,6 +12,15 @@
 
 💻 I am a **Flutter Developer** passionate about creating seamless mobile applications with clean code and elegant UI/UX.  
 🚀 I enjoy exploring new technologies and leveraging them to build practical, scalable, and beautiful apps.  
+
+---
+
+### 🚀 Tech Stack
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 
 <img align="right" alt="GIF" src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/main/techstack.gif" width="360px"/>
 
@@ -20,21 +35,10 @@
 
 ---
 
-### 🔨 Languages and Tools:
-<a href="https://flutter.dev/" target="_blank"> <img align="left" alt="Flutter" height ="42px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg"/> </a>
-<a href="https://dart.dev/" target="_blank"><img align="left" alt="Dart" height ="42px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dart/dart-original.svg"></a>
-<a href="https://firebase.google.com/" target="_blank"> <img align="left" alt="Firebase" height ="42px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/firebase/firebase-plain.svg"/> </a>
-<a href="https://git-scm.com/" target="_blank"><img align="left" alt="Git" height ="42px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg"></a>
-<a href="https://www.figma.com/" target="_blank"><img align="left" alt="Figma" height ="42px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg"></a>
-
-<br/>
-<br/>
-
----
-
 ### 📊 Github Stats
-![Stats Overview](https://raw.githubusercontent.com/OmarKhaled00e/github-stats-transparent/output/generated/overview.svg)
-![Most Used Languages](https://raw.githubusercontent.com/OmarKhaled00e/github-stats-transparent/output/generated/languages.svg)
+![Omar's GitHub stats](https://github-readme-stats.vercel.app/api?username=OmarKhaled00e&show_icons=true&theme=radical)  
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=OmarKhaled00e&layout=compact&theme=radical)
 
 ---
 
@@ -44,4 +48,3 @@
 - 👗 [Fashion App](https://github.com/OmarKhaled00e/Fashion_App)  
 - 📰 [News General App](https://github.com/OmarKhaled00e/news_ganeral)  
 - ✅ [To-Do App](https://github.com/OmarKhaled00e/to_do_app)  
-
